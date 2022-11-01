@@ -80,7 +80,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/jogo-da-velha.git
 # Access
-$ cd papelaria-caprichos
+$ cd jogo-da-velha
 # The server will initialize in the <http://127.0.0.1:5500/>
 ```
 
