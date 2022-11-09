@@ -20,7 +20,7 @@
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/jogo-da-velha?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/jogo-da-velha?color=00FF00">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/jogo-da-velha?color=00ff00">
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/jogo-da-velha?color=00FF00" /> 
 
@@ -88,7 +88,7 @@ $ cd jogo-da-velha
 ## :memo: License ##
 
 
-This project is under the [MIT license](./LICENSE).
+This project is under the [MIT license](./License).
 
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
